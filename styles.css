@@ -1,10 +1,16 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: 'Outfit', sans-serif;
 }
 
 body {
     background: hsl(217, 54%, 11%)
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 18px;
 }
 
 .card-body {
@@ -15,8 +21,10 @@ body {
 .img-eth {
     margin: 20px 10%;
     width: 80%;
-    
+
 }
+
+
 
 
 
