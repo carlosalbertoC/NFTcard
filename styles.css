@@ -9,5 +9,14 @@ body {
 
 .card-body {
     background: hsl(216, 50%, 16%) ;
+    width: 375px;
 }
+
+.img-eth {
+    margin: 20px 10%;
+    width: 80%;
+    
+}
+
+
 
