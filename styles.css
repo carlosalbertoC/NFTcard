@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: hsl(217, 54%, 11%)
+}
+
+.card-body {
+    background: hsl(216, 50%, 16%) ;
+}
+
