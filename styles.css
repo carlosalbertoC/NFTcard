@@ -2,6 +2,8 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
 }
 
 body {
@@ -14,7 +16,7 @@ main {
 
 h1 {
     color: hsl(0, 0%, 100%);
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 600;
     margin: 20px 0px;
 }
@@ -46,6 +48,22 @@ h2 {
     border-radius: 50%;
 }
 
-.data {
+.relevant {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px;
+    
+}
 
+.value {
+    display: flex;
+    gap: 8px;
+    font-weight: 600;
+}
+
+.time {
+    display: flex;
+    gap: 5px;
+    color: hsl(215, 51%, 70%);
+    font-weight: 400;
 }
