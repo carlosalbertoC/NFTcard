@@ -5,26 +5,47 @@
 }
 
 body {
-    background: hsl(217, 54%, 11%)
+    background: hsl(217, 54%, 11%);
+}
+
+main {
+    width: 300px;
 }
 
 h1 {
     color: hsl(0, 0%, 100%);
     font-size: 18px;
+    font-weight: 600;
+    margin: 20px 0px;
+}
+
+p {
+    color: hsl(215, 51%, 70%);
+}
+
+h2 {
+    color: hsl(178, 100%, 50%);
 }
 
 .card-body {
     background: hsl(216, 50%, 16%) ;
-    width: 375px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
 }
 
 .img-eth {
-    margin: 20px 10%;
-    width: 80%;
-
+    width: 300px;
+    border-radius: 10px;
 }
 
 
+.img-user {
+    width: 50px;
+    border-radius: 50%;
+}
 
+.data {
 
-
+}
